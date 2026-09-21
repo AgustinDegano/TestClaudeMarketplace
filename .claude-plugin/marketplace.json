@@ -1,0 +1,30 @@
+{
+  "name": "plugins-empresa",
+  "description": "Paquete de plugins aprobados por IT para usar en Claude Desktop",
+  "owner": {
+    "name": "IT - Agustin"
+  },
+  "plugins": [
+    {
+      "name": "gmail",
+      "displayName": "Gmail",
+      "source": "./plugins/gmail",
+      "description": "Conecta Claude con tu casilla de Gmail para buscar, leer y redactar correos.",
+      "category": "productividad"
+    },
+    {
+      "name": "google-calendar",
+      "displayName": "Google Calendar",
+      "source": "./plugins/google-calendar",
+      "description": "Conecta Claude con tu Google Calendar para consultar agenda y coordinar reuniones.",
+      "category": "productividad"
+    },
+    {
+      "name": "projectcor",
+      "displayName": "ProjectCor",
+      "source": "./plugins/projectcor",
+      "description": "Conecta Claude con ProjectCor para consultar proyectos, tareas y horas.",
+      "category": "gestion-de-proyectos"
+    }
+  ]
+}

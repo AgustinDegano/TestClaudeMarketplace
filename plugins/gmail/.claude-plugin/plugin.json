@@ -1,0 +1,6 @@
+{
+  "name": "gmail",
+  "displayName": "Gmail",
+  "description": "Conecta Claude con tu casilla de Gmail para buscar, leer y redactar correos.",
+  "author": { "name": "IT - Agustin" }
+}

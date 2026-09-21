@@ -1,0 +1,6 @@
+{
+  "name": "projectcor",
+  "displayName": "ProjectCor",
+  "description": "Conecta Claude con ProjectCor para consultar proyectos, tareas y horas.",
+  "author": { "name": "IT - Agustin" }
+}
