@@ -1,0 +1,6 @@
+{
+  "name": "google-calendar",
+  "displayName": "Google Calendar",
+  "description": "Conecta Claude con tu Google Calendar para consultar agenda y coordinar reuniones.",
+  "author": { "name": "IT - Agustin" }
+}
