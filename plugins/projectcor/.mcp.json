@@ -1,6 +1,5 @@
 {
   "mcpServers": {
-    "projectcor": { "type": "http", "url": "https://mcp.projectcor.com/mcp" },
-    "notion":     { "type": "http", "url": "https://mcp.notion.com/mcp" }
+    "projectcor": { "type": "http", "url": "https://mcp.projectcor.com/mcp" }
   }
 }
